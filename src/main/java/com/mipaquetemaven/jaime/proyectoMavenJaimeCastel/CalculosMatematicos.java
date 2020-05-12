@@ -60,6 +60,7 @@ class CalculosMatematicos{
 		}
 		return fact;
 	}
+
 	public static ArrayList<Integer> listaDePrimosHasta(int numero){
 		ArrayList<Integer> listaDePrimos = new ArrayList<Integer>();
 			listaDePrimos.add(1);
